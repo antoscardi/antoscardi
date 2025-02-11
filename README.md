@@ -16,8 +16,8 @@ I recently graduated from **La Sapienza University of Rome**, with a thesis on *
 
 ## 📜 Academic Background  
 
-- 🎓 **MSc in Robotics & AI** - *La Sapienza University of Rome (2021 - 2025)*  
-- 🎓 **BSc in Automation Engineering** - *Politecnico di Milano (2016 - 2019)*   
+- 🎓 **MSc in Robotics & AI** - *La Sapienza University of Rome*  
+- 🎓 **BSc in Automation Engineering** - *Politecnico di Milano*   
 
 ---
 
